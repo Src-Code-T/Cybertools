@@ -56,8 +56,7 @@ A basic keylogger implementation to understand how keyboard input can be capture
 **Usage:**
 
 ```bash
-cd Keylogger_V1
-python keylogger.py
+python keylogger_v1.py
 ```
 
 **Note:**
@@ -106,7 +105,7 @@ Contributions are welcome, especially if they:
 
 ## 📄 License
 
-This project is licensed under the Mozilla Public License 2.0
+This project is licensed under the MPL 2.0 Licence.
 
 ---
 
