@@ -1,2 +1,2 @@
 # Cybertools
-Learning the working of tools by building my own
+For learning and research purposes only ;)
